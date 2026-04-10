@@ -1,5 +1,5 @@
 # Write a program to find the first and last digit of a number.
-n = 1479752419
+n = 4856586
 temp = len(str(n))
 rem = n % 10
 f = 0
